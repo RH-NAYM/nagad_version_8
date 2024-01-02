@@ -1,12 +1,14 @@
-# nagad_version_7
-# github : https://github.com/RH-NAYM/nagad_version_7.git
+# nagad_version_8
+# github : https://github.com/RH-NAYM/nagad_version_8.git
+# HuggingFace : https://huggingface.co/rakib72642/nagad_version_8
 
 sudo apt install iproute2 && sudo apt install wget && sudo apt install unzip && apt install nvtop 
 
 apt-get update && apt-get install libgl1
 
-
-wget "not updated yet" && unzip "not updated yet" && pip install -r requirements.txt
+# git clone https://huggingface.co/rakib72642/nagad_version_8 && cd nagad_version_8 && pip install -r requirements.txt
+# or
+# wget "not updated yet" && unzip "not updated yet" && pip install -r requirements.txt
 
 sudo apt update && sudo apt upgrade
 
